@@ -1,0 +1,7 @@
+/*
+!/src
+!.gitignore
+!readme.md
+!.gitattributes 
+/.localHistory
+*.TMP
